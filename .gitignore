@@ -1,0 +1,16 @@
+[Rr]elease/
+[Dd]ebug/
+[Oo]bj/
+[Bb]in/
+[Cc]sx/
+*.user
+/TestResults
+*.vspscc
+*.vssscc
+*.suo
+*.cache
+*.csproj.user
+**/packages/*
+/apps
+Thumbs.db
+.vs/config/applicationhost.config
